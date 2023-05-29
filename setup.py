@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as info:
 
 setuptools.setup(
     name='superstes_ctf_tools',
-    version='1.0.0',
+    version='1.0.4',
     author='René Rath',
     author_email='contact@superstes.eu',
     description='Some python utils and scripts that I find useful for security challenges',
